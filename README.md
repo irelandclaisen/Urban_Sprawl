@@ -2,7 +2,7 @@
 
 
 ## Description
-In this project, I develop a CNN model to determine if an area is urban or not.  This model could be used to measure urban sprawl over time.
+In this project, I develop a CNN model to determine if an area is urban or not.  I applied this model to satellite images of Seattle and Las Vegas to measure urban sprawl over time.
 
 ## Context
 Urban sprawl has a lot of negative impacts, such as air pollution, traffic congestion, destruction of valuable wild life space, and increased carbon emmisions.  Various cities are enacting policies to try to curb urban sprawl and 
