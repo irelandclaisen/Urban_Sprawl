@@ -12,7 +12,7 @@ how much an urban area is spreading over times
 
 ## Featured Techniques
  * Satellite Image Processing
- * Using Geospacial Data
+ * Geospatial Data
  * Convolutional Neural Networks
  * Deep learning
  
